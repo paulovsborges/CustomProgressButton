@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomProgressButton</string>
+    <string name="title">ok</string>
+    <string name="loading_title">please wait </string>
+</resources>
